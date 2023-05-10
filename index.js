@@ -5,6 +5,9 @@ const userLastName = "Shkredov";
 const userSurName = "Stepanovich";
 const userBirthDay = new Date("October 13, 1984 02:00:00");
 
+const isOpen = true;
+const hasAccess = false;
+
 // OBJECTS
 const user = {
   uuid: "27068e98-0aec-4f47-a14d-e442783dd510",
@@ -38,3 +41,13 @@ const userList = [
     birthDay: new Date("Desember 18, 1982 17:00:00"),
   },
 ];
+
+// FUNCTIONS
+const getUserList = () => {};
+const sendUserList = () => {};
+
+const openMobileMenu = () => {};
+const closeMobileMenu = () => {};
+
+const showModalLogin = () => {};
+const hideModalLogin = () => {};
