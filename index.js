@@ -15,7 +15,7 @@ const user = {
 };
 
 // ARRAYS
-const userlist = [
+const userList = [
   {
     uuid: "27068e98-0aec-4f47-a14d-e442783dd510",
     name: "Dmitriy",
